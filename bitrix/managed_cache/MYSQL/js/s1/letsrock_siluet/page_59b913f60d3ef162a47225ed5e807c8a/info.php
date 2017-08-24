@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/templates/.default/components/bitrix/menu/leftcatnews/script.js" => "15028641421694",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>

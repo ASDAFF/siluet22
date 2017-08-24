@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001503459625';
+$dateexpire = '001503463225';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:5:{s:11:"code_editor";a:1:{s:5:"theme";s:5:"light";}s:18:"file_dialog_config";s:35:"s1;/upload/iblock/dc7;list;type;asc";s:11:"last_pathes";s:593:"a:10:{i:0;s:35:"/local/templates/letsrock_siluet/js";i:1;s:32:"/local/templates/letsrock_siluet";i:2;s:36:"/local/templates/letsrock_siluet/css";i:3;s:12:"/brends/test";i:4;s:6:"/about";i:5;s:72:"/local/templates/.default/components/bitrix/catalog.section.list/histop2";i:6;s:56:"/local/templates/.default/components/bitrix/news/history";i:7;s:82:"/local/templates/.default/components/bitrix/news/history/bitrix/news.list/.default";i:8;s:73:"/local/templates/.default/components/bitrix/news/history/bitrix/news.list";i:9;s:63:"/local/templates/.default/components/bitrix/news/history/bitrix";}";s:30:"taskbar_settings_FORM_TEMPLATE";s:250:"a:3:{s:19:"BXPropertiesTaskbar";a:3:{s:4:"show";b:1;s:3:"set";i:3;s:6:"active";b:1;}s:20:"BXComponents2Taskbar";a:3:{s:4:"show";b:1;s:3:"set";s:1:"2";s:6:"active";b:1;}s:21:"BXFormElementsTaskbar";a:3:{s:4:"show";b:1;s:3:"set";i:3;s:6:"active";b:1;}}";s:33:"taskbarset_settings_FORM_TEMPLATE";s:90:"a:2:{i:2;a:2:{s:4:"show";b:1;s:4:"size";i:200;}i:3;a:2:{s:4:"show";b:1;s:4:"size";i:160;}}";}}';
+return true;
+?>

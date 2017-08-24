@@ -1,0 +1,1 @@
+<?$arResult["FORM_HEADER"] = preg_replace("#<form#", "<form class='contact-form'", $arResult["FORM_HEADER"]);?>

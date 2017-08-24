@@ -1,0 +1,4 @@
+User-Agent: *
+Host: www.siluet.test.letsrock.pro
+Sitemap: http://siluet.test.letsrock.pro/sitemap.xml
+Disallow: *

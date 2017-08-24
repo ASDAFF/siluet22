@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/local/templates/.default/components/bitrix/breadcrumb/navcase/style.css" => "1502864142467",), 'CUR_SEL_CNT' => '5', 'CUR_IE_CNT' => '0'); ?>

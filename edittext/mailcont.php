@@ -1,0 +1,1 @@
+<a href="mailto:barnaul@siluet22.ru">barnaul@siluet22.ru</a>

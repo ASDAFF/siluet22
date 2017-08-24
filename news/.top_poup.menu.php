@@ -1,0 +1,39 @@
+<?
+$aMenuLinks = Array(
+    Array(
+        "Акции",
+        "/news/1/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Новинки",
+        "/news/2/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "События",
+        "/news/3/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Конкурсы",
+        "/news/4/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Тренды",
+        "/news/5/",
+        Array(),
+        Array(),
+        ""
+    )
+);
+?>

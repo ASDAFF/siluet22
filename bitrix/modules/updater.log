@@ -1,0 +1,521 @@
+2017-08-16 17:00:38 -  - exec CUpdateClient::GetUpdatesList
+2017-08-16 17:00:38 -  - exec CUpdateClient::CollectRequestData
+2017-08-16 17:00:38 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.9&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.9&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.0.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.9&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.9&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-08-16 17:00:38 -  - exec CUpdateClient::GetHTTPPage
+2017-08-16 17:00:39 -  - TIME GetUpdatesList(request) 0.762 sec
+2017-08-16 17:00:39 -  - exec CUpdateClient::ParseServerData
+2017-08-16 23:08:13 -  - exec CUpdateClient::GetUpdatesList
+2017-08-16 23:08:13 -  - exec CUpdateClient::CollectRequestData
+2017-08-16 23:08:13 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.9&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.9&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.0.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.9&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.9&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-08-16 23:08:13 -  - exec CUpdateClient::GetHTTPPage
+2017-08-16 23:08:14 -  - TIME GetUpdatesList(request) 0.351 sec
+2017-08-16 23:08:14 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:37:20 -  - exec CUpdateClient::GetUpdatesList
+2017-08-17 00:37:20 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:37:20 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.9&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.9&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.0.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.9&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.9&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-08-17 00:37:20 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:37:21 -  - TIME GetUpdatesList(request) 0.259 sec
+2017-08-17 00:37:21 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:09 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:38:09 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:38:09 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.9&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.9&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.0.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.9&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.9&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=mainiblock%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:38:09 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:38:09 -  - TIME GetSupportFullLoad(request) 0.366 sec
+2017-08-17 00:38:09 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:38:09 -  - TIME UnGzipArchive 0.217 sec
+2017-08-17 00:38:10 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:38:10 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:10 -  - TIME UpdateStepModules 0.173 sec
+2017-08-17 00:38:10 - UPD_SUCCESS - Full loaded: highloadblock
+2017-08-17 00:38:10 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:38:10 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:38:10 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.9&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.9&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.0.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.9&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.9&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=mainiblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:38:10 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:38:10 -  - TIME GetSupportFullLoad(request) 0.197 sec
+2017-08-17 00:38:10 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:38:10 -  - TIME UnGzipArchive 0.002 sec
+2017-08-17 00:38:10 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:38:10 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:10 - STEP - Finish - NOUPDATES
+2017-08-17 00:38:23 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:23 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:38:23 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.9&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.9&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.0.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.9&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.9&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-08-17 00:38:23 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:38:23 -  - TIME LoadModulesUpdates(request) 0.198 sec
+2017-08-17 00:38:23 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:23 - S - STEP
+2017-08-17 00:38:23 - LMU01 - LoadModulesUpdates-Step
+2017-08-17 00:38:23 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:23 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:24 -  - loadFile
+2017-08-17 00:38:24 - U - RETURN
+2017-08-17 00:38:24 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:38:24 -  - TIME UnGzipArchive 0.006 sec
+2017-08-17 00:38:24 - CSURUS1 - Run updater '/bitrix/updates/update_m1502905104/main/updater17.0.10.php'
+2017-08-17 00:38:24 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1502905104/main/updater17.0.10.php': CopyFiles(install/components, components)
+2017-08-17 00:38:24 -  - TIME UpdateStepModules 0.025 sec
+2017-08-17 00:38:24 - UPD_SUCCESS - Updated: main (17.0.10)<br><li>Исправлена ошибка сохранения выбранного соглашения в параметрах компонента. <li>Исправлена проблема с работоспособностью компонента main.userconsent.request после копирования шаблона компонента. 
+2017-08-17 00:38:24 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:24 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:38:24 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.9&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.10&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.0.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.9&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.9&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-08-17 00:38:24 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:38:24 -  - TIME LoadModulesUpdates(request) 0.201 sec
+2017-08-17 00:38:24 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:24 - S - STEP
+2017-08-17 00:38:24 - LMU01 - LoadModulesUpdates-Step
+2017-08-17 00:38:24 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:24 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:24 -  - loadFile
+2017-08-17 00:38:25 - U - RETURN
+2017-08-17 00:38:25 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:38:25 -  - TIME UnGzipArchive 0.25 sec
+2017-08-17 00:38:25 - CSURUS1 - Run updater '/bitrix/updates/update_m1502905105/main/updater17.0.11.php'
+2017-08-17 00:38:25 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1502905105/main/updater17.0.11.php': CopyFiles(install/components, components)
+2017-08-17 00:38:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1502905105/main/updater17.0.11.php': CopyFiles(install/js, js)
+2017-08-17 00:38:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1502905105/main/updater17.0.11.php': CopyFiles(install/panel, panel)
+2017-08-17 00:38:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1502905105/main/updater17.0.11.php': CopyFiles(install/css, css)
+2017-08-17 00:38:26 -  - TIME UpdateStepModules 0.967 sec
+2017-08-17 00:38:26 - UPD_SUCCESS - Updated: main (17.0.11)<br><li>На странице с списком пользователей, в административной панели, подключен новый грид и фильтр. <li>Исправление ошибок.
+2017-08-17 00:38:27 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:27 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:38:27 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.11&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.11&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.0.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.9&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.9&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-08-17 00:38:27 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:38:27 -  - TIME LoadModulesUpdates(request) 0.198 sec
+2017-08-17 00:38:27 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:27 - S - STEP
+2017-08-17 00:38:27 - LMU01 - LoadModulesUpdates-Step
+2017-08-17 00:38:27 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:27 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:27 -  - loadFile
+2017-08-17 00:38:27 - U - RETURN
+2017-08-17 00:38:27 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:38:27 -  - TIME UnGzipArchive 0.012 sec
+2017-08-17 00:38:27 -  - TIME UpdateStepModules 0.013 sec
+2017-08-17 00:38:27 - UPD_SUCCESS - Updated: main (17.0.12)<br><li>Исправление ошибок в проверке системы 
+2017-08-17 00:38:28 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:28 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:38:28 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.0.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.9&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.9&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-08-17 00:38:28 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:38:28 -  - TIME LoadModulesUpdates(request) 0.207 sec
+2017-08-17 00:38:28 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:28 - S - STEP
+2017-08-17 00:38:28 - LMU01 - LoadModulesUpdates-Step
+2017-08-17 00:38:28 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:28 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:28 -  - loadFile
+2017-08-17 00:38:29 - U - RETURN
+2017-08-17 00:38:29 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:38:29 -  - TIME UnGzipArchive 0.078 sec
+2017-08-17 00:38:29 - CSURUS1 - Run updater '/bitrix/updates/update_m1502905109/iblock/updater17.0.10/index.php'
+2017-08-17 00:38:29 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1502905109/iblock/updater17.0.10/index.php': CopyFiles(install/components, components)
+2017-08-17 00:38:29 -  - TIME UpdateStepModules 0.279 sec
+2017-08-17 00:38:29 - UPD_SUCCESS - Updated: iblock (17.0.10)<br><li>Исправлена ошибка редактирования коэффициентов единиц измерения на административных страницах списков элементов. <li>Исправлена ошибка привязки инфоблока торговых предложений к основному инфоблоку в случае, когда инфоблок торговых предложений хранит свойства в отдельной таблице. <li>Исправлена ошибка выбора разделов собственного инфоблока для свойства типа \"Привязка к разделам с автозаполнением\" в форме редактирования элемента. <li>В компоненте catalog.comments в шаблоне по умолчанию используется новый html-редактор. <li>Исправлены ошибки компонентов catalog.smart.filter, catalog.section. <li>Исправлены ошибки шаблонов по умолчанию компонентов catalog.element, catalog.top. <li>Улучшена производительность шаблонов компонентов catalog.element, catalog.section, catalog.top для свойств с большим числом значений. <li>Улучшена совместимость с PHP 7. <li>В XML-эспорт/импорт добавлена возможность работы с диапазонами цен. <li>Исправлена ошибка привязки к основному разделу при импорте из 1С. <li>Разработчикам: метод \\Bitrix\\Iblock\\Component\\Base::processLinkAction возвращает ответ на аякс-запрос в json-формате. <li>Разработчикам: в методе \\CIBlockElement::GetPropertyValuesArray можно указать перечень возвращаемых полей свойств. <li>Разработчикам: метод \\CAllIBlockSection::GetMixedList поддерживает фильтрацию по ключу CNT_ACTIVE. <li>Разработчикам: в классе \\Bitrix\\Iblock\\Component\\Base можно сохранять рассчитанные цены всех типов. Для включения этой возможности в шаблон необходимо добавить параметр FILL_ITEM_ALL_PRICES типа checkbox. 
+2017-08-17 00:38:29 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:29 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:38:29 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.0.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.9&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-08-17 00:38:29 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:38:29 -  - TIME LoadModulesUpdates(request) 0.198 sec
+2017-08-17 00:38:29 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:30 - S - STEP
+2017-08-17 00:38:30 - LMU01 - LoadModulesUpdates-Step
+2017-08-17 00:38:30 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:30 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:30 -  - loadFile
+2017-08-17 00:38:30 - U - RETURN
+2017-08-17 00:38:30 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:38:30 -  - TIME UnGzipArchive 0.008 sec
+2017-08-17 00:38:30 -  - TIME UpdateStepModules 0.016 sec
+2017-08-17 00:38:30 - UPD_SUCCESS - Updated: translate (15.5.0)<br><li>Исправлена ошибка работы настройки \"Конвертировать в национальную кодировку\". <li>Добавлена проверка на формат загружаемых архивов с переводами. <li>Добавлен режим обновления отдельных фраз при загрузке переводов. <li>Исправлена ошибка сохранения данных на странице настроек модуля. <li>Исправлены незначительные ошибки.
+2017-08-17 00:38:30 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:30 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:38:30 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.9&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-08-17 00:38:30 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:38:30 -  - TIME LoadModulesUpdates(request) 0.206 sec
+2017-08-17 00:38:30 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:30 - S - STEP
+2017-08-17 00:38:30 - LMU01 - LoadModulesUpdates-Step
+2017-08-17 00:38:31 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:31 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:31 -  - loadFile
+2017-08-17 00:38:31 - U - RETURN
+2017-08-17 00:38:31 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:38:31 -  - TIME UnGzipArchive 0.04 sec
+2017-08-17 00:38:31 - CSURUS1 - Run updater '/bitrix/updates/update_m1502905111/catalog/updater17.0.10/index.php'
+2017-08-17 00:38:31 -  - TIME UpdateStepModules 0.151 sec
+2017-08-17 00:38:31 - UPD_SUCCESS - Updated: catalog (17.0.10)<br><li>Исправлены ошибки административной страницы списка складов. <li>Исправлены ошибки административной страницы списка документов складского учета. <li>Компонент catalog.discsave.info поддерживает работу с правилами корзины. <li>Улучшена производительность корзины. <li>Разработчикам: добавлен метод \\Bitrix\\Catalog\\Product\\Price::loadRoundRules для получения правил округления нескольких типов цен.
+2017-08-17 00:38:31 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:31 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:38:32 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-08-17 00:38:32 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:38:32 -  - TIME LoadModulesUpdates(request) 0.212 sec
+2017-08-17 00:38:32 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:32 - S - STEP
+2017-08-17 00:38:32 - LMU01 - LoadModulesUpdates-Step
+2017-08-17 00:38:32 -  - exec CUpdateClient::LoadModulesUpdates
+2017-08-17 00:38:32 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:38:32 -  - loadFile
+2017-08-17 00:38:33 - U - RETURN
+2017-08-17 00:38:33 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:38:33 -  - TIME UnGzipArchive 0.174 sec
+2017-08-17 00:38:33 - CSURUS1 - Run updater '/bitrix/updates/update_m1502905113/sale/updater17.0.25/index.php'
+2017-08-17 00:38:33 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1502905113/sale/updater17.0.25/index.php': CopyFiles(install/components, components)
+2017-08-17 00:38:33 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1502905113/sale/updater17.0.25/index.php': CopyFiles(install/themes, themes)
+2017-08-17 00:38:33 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1502905113/sale/updater17.0.25/index.php': CopyFiles(install/tools, tools)
+2017-08-17 00:39:33 -  - exec CUpdateClient::GetUpdatesList
+2017-08-17 00:39:33 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:39:33 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2017-08-17 00:39:33 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:39:33 -  - TIME GetUpdatesList(request) 0.213 sec
+2017-08-17 00:39:33 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:39:37 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:39:37 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:39:37 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cpull%2Cbitrixcloud%2Cmobileapp%2Cb24connector%2Ccompression%2Csubscribe%2Cforum%2Cfileman%2Cperfmon%2Csocialservices%2Csender%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:39:37 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:39:38 -  - TIME GetSupportFullLoad(request) 0.517 sec
+2017-08-17 00:39:38 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:39:38 -  - TIME UnGzipArchive 0.069 sec
+2017-08-17 00:39:38 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:39:38 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:39:38 -  - TIME UpdateStepModules 0.162 sec
+2017-08-17 00:39:38 - UPD_SUCCESS - Full loaded: pull
+2017-08-17 00:39:39 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:39:39 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:39:39 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cbitrixcloud%2Cmobileapp%2Cb24connector%2Ccompression%2Csubscribe%2Cforum%2Cfileman%2Cperfmon%2Csocialservices%2Csender%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:39:39 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:39:39 -  - TIME GetSupportFullLoad(request) 0.478 sec
+2017-08-17 00:39:39 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:39:39 -  - TIME UnGzipArchive 0.167 sec
+2017-08-17 00:39:39 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:39:39 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:39:40 -  - TIME UpdateStepModules 0.311 sec
+2017-08-17 00:39:40 - UPD_SUCCESS - Full loaded: bitrixcloud
+2017-08-17 00:39:40 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:39:40 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:39:40 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cmobileapp%2Cb24connector%2Ccompression%2Csubscribe%2Cforum%2Cfileman%2Cperfmon%2Csocialservices%2Csender%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:39:40 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:39:41 -  - TIME GetSupportFullLoad(request) 1.493 sec
+2017-08-17 00:39:41 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:39:42 -  - TIME UnGzipArchive 0.446 sec
+2017-08-17 00:39:42 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:39:42 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:39:43 -  - TIME UpdateStepModules 1.017 sec
+2017-08-17 00:39:43 - UPD_SUCCESS - Full loaded: mobileapp
+2017-08-17 00:39:44 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:39:44 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:39:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cb24connector%2Ccompression%2Csubscribe%2Cforum%2Cfileman%2Cperfmon%2Csocialservices%2Csender%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:39:44 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:39:45 -  - TIME GetSupportFullLoad(request) 1.037 sec
+2017-08-17 00:39:45 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:39:45 -  - TIME UnGzipArchive 0.124 sec
+2017-08-17 00:39:45 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:39:45 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:39:45 -  - TIME UpdateStepModules 0.249 sec
+2017-08-17 00:39:45 - UPD_SUCCESS - Full loaded: b24connector
+2017-08-17 00:39:45 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:39:45 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:39:45 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Ccompression%2Csubscribe%2Cforum%2Cfileman%2Cperfmon%2Csocialservices%2Csender%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:39:45 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:39:46 -  - TIME GetSupportFullLoad(request) 0.243 sec
+2017-08-17 00:39:46 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:39:46 -  - TIME UnGzipArchive 0.009 sec
+2017-08-17 00:39:46 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:39:46 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:39:46 -  - TIME UpdateStepModules 0.027 sec
+2017-08-17 00:39:46 - UPD_SUCCESS - Full loaded: compression
+2017-08-17 00:39:46 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:39:46 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:39:46 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Csubscribe%2Cforum%2Cfileman%2Cperfmon%2Csocialservices%2Csender%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:39:46 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:39:47 -  - TIME GetSupportFullLoad(request) 0.732 sec
+2017-08-17 00:39:47 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:39:47 -  - TIME UnGzipArchive 0.203 sec
+2017-08-17 00:39:47 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:39:47 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:39:47 -  - TIME UpdateStepModules 0.477 sec
+2017-08-17 00:39:48 - UPD_SUCCESS - Full loaded: subscribe
+2017-08-17 00:39:48 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:39:48 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:39:48 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cforum%2Cfileman%2Cperfmon%2Csocialservices%2Csender%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:39:48 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:39:51 -  - TIME GetSupportFullLoad(request) 3.293 sec
+2017-08-17 00:39:51 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:39:53 -  - TIME UnGzipArchive 2.043 sec
+2017-08-17 00:39:55 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:39:55 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:39:58 -  - TIME UpdateStepModules 3.48 sec
+2017-08-17 00:39:58 - UPD_SUCCESS - Full loaded: forum
+2017-08-17 00:39:59 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:39:59 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:39:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cfileman%2Cperfmon%2Csocialservices%2Csender%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:39:59 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:04 -  - TIME GetSupportFullLoad(request) 5.317 sec
+2017-08-17 00:40:04 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:06 -  - TIME UnGzipArchive 1.614 sec
+2017-08-17 00:40:07 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:07 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:11 -  - TIME UpdateStepModules 3.798 sec
+2017-08-17 00:40:11 - UPD_SUCCESS - Full loaded: fileman
+2017-08-17 00:40:13 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:13 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:13 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cperfmon%2Csocialservices%2Csender%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:13 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:14 -  - TIME GetSupportFullLoad(request) 0.652 sec
+2017-08-17 00:40:14 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:14 -  - TIME UnGzipArchive 0.109 sec
+2017-08-17 00:40:14 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:14 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:14 -  - TIME UpdateStepModules 0.26 sec
+2017-08-17 00:40:14 - UPD_SUCCESS - Full loaded: perfmon
+2017-08-17 00:40:14 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:14 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:14 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Csocialservices%2Csender%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:14 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:15 -  - TIME GetSupportFullLoad(request) 0.925 sec
+2017-08-17 00:40:15 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:16 -  - TIME UnGzipArchive 0.197 sec
+2017-08-17 00:40:16 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:16 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:16 -  - TIME UpdateStepModules 0.435 sec
+2017-08-17 00:40:16 - UPD_SUCCESS - Full loaded: socialservices
+2017-08-17 00:40:16 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:16 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:16 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Csender%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:16 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:17 -  - TIME GetSupportFullLoad(request) 1.052 sec
+2017-08-17 00:40:17 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:18 -  - TIME UnGzipArchive 0.215 sec
+2017-08-17 00:40:18 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:18 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:18 -  - TIME UpdateStepModules 0.399 sec
+2017-08-17 00:40:18 - UPD_SUCCESS - Full loaded: sender
+2017-08-17 00:40:18 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:18 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Ccurrency%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:18 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:19 -  - TIME GetSupportFullLoad(request) 0.466 sec
+2017-08-17 00:40:19 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:19 -  - TIME UnGzipArchive 0.089 sec
+2017-08-17 00:40:19 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:19 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:19 -  - TIME UpdateStepModules 0.284 sec
+2017-08-17 00:40:19 - UPD_SUCCESS - Full loaded: currency
+2017-08-17 00:40:20 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:20 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:20 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Csecurity%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:20 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:21 -  - TIME GetSupportFullLoad(request) 1.705 sec
+2017-08-17 00:40:21 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:22 -  - TIME UnGzipArchive 0.298 sec
+2017-08-17 00:40:22 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:22 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:23 -  - TIME UpdateStepModules 0.813 sec
+2017-08-17 00:40:23 - UPD_SUCCESS - Full loaded: security
+2017-08-17 00:40:23 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:23 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:23 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Creport%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:23 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:24 -  - TIME GetSupportFullLoad(request) 0.983 sec
+2017-08-17 00:40:24 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:24 -  - TIME UnGzipArchive 0.139 sec
+2017-08-17 00:40:24 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:24 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:25 -  - TIME UpdateStepModules 0.335 sec
+2017-08-17 00:40:25 - UPD_SUCCESS - Full loaded: report
+2017-08-17 00:40:25 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:25 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:25 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cseo%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:25 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:26 -  - TIME GetSupportFullLoad(request) 0.678 sec
+2017-08-17 00:40:26 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:26 -  - TIME UnGzipArchive 0.131 sec
+2017-08-17 00:40:26 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:26 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:26 -  - TIME UpdateStepModules 0.281 sec
+2017-08-17 00:40:26 - UPD_SUCCESS - Full loaded: seo
+2017-08-17 00:40:26 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:26 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:26 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cform%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:26 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:27 -  - TIME GetSupportFullLoad(request) 0.886 sec
+2017-08-17 00:40:27 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:27 -  - TIME UnGzipArchive 0.406 sec
+2017-08-17 00:40:28 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:28 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:29 -  - TIME UpdateStepModules 0.847 sec
+2017-08-17 00:40:29 - UPD_SUCCESS - Full loaded: form
+2017-08-17 00:40:29 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:29 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:29 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cconversion%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:29 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:29 -  - TIME GetSupportFullLoad(request) 0.458 sec
+2017-08-17 00:40:29 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:29 -  - TIME UnGzipArchive 0.056 sec
+2017-08-17 00:40:29 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:29 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:30 -  - TIME UpdateStepModules 0.114 sec
+2017-08-17 00:40:30 - UPD_SUCCESS - Full loaded: conversion
+2017-08-17 00:40:30 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:30 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:30 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cstoreassist%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:30 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:30 -  - TIME GetSupportFullLoad(request) 0.35 sec
+2017-08-17 00:40:30 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:30 -  - TIME UnGzipArchive 0.047 sec
+2017-08-17 00:40:30 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:30 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:30 -  - TIME UpdateStepModules 0.104 sec
+2017-08-17 00:40:30 - UPD_SUCCESS - Full loaded: storeassist
+2017-08-17 00:40:31 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:31 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:31 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Ceshopapp%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:31 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:31 -  - TIME GetSupportFullLoad(request) 0.761 sec
+2017-08-17 00:40:31 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:32 -  - TIME UnGzipArchive 0.299 sec
+2017-08-17 00:40:32 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:32 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:33 -  - TIME UpdateStepModules 0.736 sec
+2017-08-17 00:40:33 - UPD_SUCCESS - Full loaded: eshopapp
+2017-08-17 00:40:33 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:33 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:33 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Ctranslate%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:33 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:33 -  - TIME GetSupportFullLoad(request) 0.291 sec
+2017-08-17 00:40:33 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:33 -  - TIME UnGzipArchive 0.055 sec
+2017-08-17 00:40:33 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:33 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:34 -  - TIME UpdateStepModules 0.133 sec
+2017-08-17 00:40:34 - UPD_SUCCESS - Full loaded: translate
+2017-08-17 00:40:34 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:34 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cphotogallery%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:34 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:38 -  - TIME GetSupportFullLoad(request) 3.893 sec
+2017-08-17 00:40:38 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:39 -  - TIME UnGzipArchive 1.237 sec
+2017-08-17 00:40:40 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:40 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:44 -  - TIME UpdateStepModules 3.712 sec
+2017-08-17 00:40:44 - UPD_SUCCESS - Full loaded: photogallery
+2017-08-17 00:40:44 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:44 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cabtest%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:44 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:40:44 -  - TIME GetSupportFullLoad(request) 0.418 sec
+2017-08-17 00:40:44 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:40:44 -  - TIME UnGzipArchive 0.03 sec
+2017-08-17 00:40:44 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:40:44 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:40:45 -  - TIME UpdateStepModules 0.075 sec
+2017-08-17 00:40:45 - UPD_SUCCESS - Full loaded: abtest
+2017-08-17 00:40:45 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:40:45 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:40:45 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Csale%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:40:45 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:41:09 -  - TIME GetSupportFullLoad(request) 23.699 sec
+2017-08-17 00:41:09 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:41:15 -  - TIME UnGzipArchive 6.222 sec
+2017-08-17 00:41:20 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:41:20 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:41:32 -  - TIME UpdateStepModules 12.669 sec
+2017-08-17 00:41:33 - UPD_SUCCESS - Full loaded: sale
+2017-08-17 00:41:33 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:41:33 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:41:33 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cvote%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:41:33 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:41:34 -  - TIME GetSupportFullLoad(request) 1.177 sec
+2017-08-17 00:41:34 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:41:34 -  - TIME UnGzipArchive 0.354 sec
+2017-08-17 00:41:35 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:41:35 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:41:36 -  - TIME UpdateStepModules 1.015 sec
+2017-08-17 00:41:36 - UPD_SUCCESS - Full loaded: vote
+2017-08-17 00:41:36 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:41:36 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:41:36 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Ciblock%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:41:36 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:41:42 -  - TIME GetSupportFullLoad(request) 6.048 sec
+2017-08-17 00:41:42 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:41:46 -  - TIME UnGzipArchive 3.72 sec
+2017-08-17 00:41:49 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:41:49 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:41:59 -  - TIME UpdateStepModules 9.285 sec
+2017-08-17 00:41:59 - UPD_SUCCESS - Full loaded: iblock
+2017-08-17 00:41:59 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:41:59 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:41:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cscale%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:41:59 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:41:59 -  - TIME GetSupportFullLoad(request) 0.373 sec
+2017-08-17 00:41:59 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:41:59 -  - TIME UnGzipArchive 0.072 sec
+2017-08-17 00:41:59 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:41:59 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:41:59 -  - TIME UpdateStepModules 0.185 sec
+2017-08-17 00:41:59 - UPD_SUCCESS - Full loaded: scale
+2017-08-17 00:42:00 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:42:00 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:42:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cclouds%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:42:00 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:42:00 -  - TIME GetSupportFullLoad(request) 0.451 sec
+2017-08-17 00:42:00 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:42:00 -  - TIME UnGzipArchive 0.062 sec
+2017-08-17 00:42:00 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:42:00 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:42:00 -  - TIME UpdateStepModules 0.142 sec
+2017-08-17 00:42:00 - UPD_SUCCESS - Full loaded: clouds
+2017-08-17 00:42:00 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:42:00 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:42:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Ccatalog%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:42:00 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:42:04 -  - TIME GetSupportFullLoad(request) 3.816 sec
+2017-08-17 00:42:04 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:42:06 -  - TIME UnGzipArchive 1.462 sec
+2017-08-17 00:42:07 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:42:07 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:42:09 -  - TIME UpdateStepModules 2.292 sec
+2017-08-17 00:42:09 - UPD_SUCCESS - Full loaded: catalog
+2017-08-17 00:42:09 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:42:09 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:42:09 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Csearch%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:42:09 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:42:11 -  - TIME GetSupportFullLoad(request) 1.469 sec
+2017-08-17 00:42:11 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:42:11 -  - TIME UnGzipArchive 0.515 sec
+2017-08-17 00:42:12 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:42:12 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:42:13 -  - TIME UpdateStepModules 1 sec
+2017-08-17 00:42:13 - UPD_SUCCESS - Full loaded: search
+2017-08-17 00:42:13 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:42:13 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:42:13 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Cblog%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:42:13 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:42:15 -  - TIME GetSupportFullLoad(request) 2.229 sec
+2017-08-17 00:42:15 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:42:17 -  - TIME UnGzipArchive 1.899 sec
+2017-08-17 00:42:19 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:42:19 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:42:24 -  - TIME UpdateStepModules 5.195 sec
+2017-08-17 00:42:24 - UPD_SUCCESS - Full loaded: blog
+2017-08-17 00:42:25 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:42:25 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:42:25 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main%2Chighloadblock&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:42:25 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:42:25 -  - TIME GetSupportFullLoad(request) 0.363 sec
+2017-08-17 00:42:25 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:42:25 -  - TIME UnGzipArchive 0.083 sec
+2017-08-17 00:42:25 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:42:25 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:42:26 -  - TIME UpdateStepModules 0.206 sec
+2017-08-17 00:42:26 - UPD_SUCCESS - Full loaded: highloadblock
+2017-08-17 00:42:26 -  - exec CUpdateClient::GetSupportFullLoad
+2017-08-17 00:42:26 -  - exec CUpdateClient::CollectRequestData
+2017-08-17 00:42:26 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=17.0.7&VERSION=17.0.12&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=siluet.test.letsrock.pro&CHHB=siluet.test.letsrock.pro&CSAB=62.109.11.33&SUID=7d3b6b3551beff76e52f4ba11f8c2c65&CANGZIP=Y&CLIENT_PHPVER=7.0.18-0ubuntu0.16.04.1&stable=Y&NGINX=Y&rerere=Y&bitm_main=17.0.12&bitm_pull=17.1.0&bitm_bitrixcloud=17.0.0&bitm_mobileapp=17.0.1&bitm_b24connector=17.0.1&bitm_compression=16.0.0&bitm_subscribe=17.0.0&bitm_forum=17.5.1&bitm_fileman=17.5.0&bitm_perfmon=17.0.0&bitm_socialservices=17.1.4&bitm_sender=17.1.2&bitm_currency=17.0.3&bitm_security=17.0.1&bitm_report=16.5.1&bitm_seo=17.0.6&bitm_form=17.0.1&bitm_conversion=17.0.2&bitm_storeassist=16.0.1&bitm_eshopapp=16.5.0&bitm_translate=15.5.0&bitm_photogallery=17.0.2&bitm_abtest=17.0.0&bitm_sale=17.0.24&bitm_vote=17.5.0&bitm_iblock=17.0.10&bitm_scale=17.0.0&bitm_clouds=17.0.0&bitm_catalog=17.0.10&bitm_search=17.0.1&bitm_blog=17.5.2&bitm_highloadblock=17.0.2&bitl_en=&bitl_ru=&requested_modules=main&SUPD_OFC=Small&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&support_full_load=Y
+2017-08-17 00:42:26 -  - exec CUpdateClient::GetHTTPPage
+2017-08-17 00:42:47 -  - TIME GetSupportFullLoad(request) 21.187 sec
+2017-08-17 00:42:47 -  - exec CUpdateClient::UnGzipArchive
+2017-08-17 00:42:52 -  - TIME UnGzipArchive 5.441 sec
+2017-08-17 00:42:56 -  - exec CUpdateClient::GetStepUpdateInfo
+2017-08-17 00:42:56 -  - exec CUpdateClient::ParseServerData
+2017-08-17 00:43:08 -  - TIME UpdateStepModules 12.28 sec
+2017-08-17 00:43:08 - UPD_SUCCESS - Full loaded: main

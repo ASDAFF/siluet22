@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001503456935';
+$dateexpire = '001503460535';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:22:{s:6:"abtest";a:1:{s:2:"ID";s:6:"abtest";}s:12:"bitrix.eshop";a:1:{s:2:"ID";s:12:"bitrix.eshop";}s:20:"bitrix.sitecorporate";a:1:{s:2:"ID";s:20:"bitrix.sitecorporate";}s:4:"blog";a:1:{s:2:"ID";s:4:"blog";}s:10:"conversion";a:1:{s:2:"ID";s:10:"conversion";}s:8:"currency";a:1:{s:2:"ID";s:8:"currency";}s:7:"fileman";a:1:{s:2:"ID";s:7:"fileman";}s:4:"form";a:1:{s:2:"ID";s:4:"form";}s:13:"highloadblock";a:1:{s:2:"ID";s:13:"highloadblock";}s:6:"iblock";a:1:{s:2:"ID";s:6:"iblock";}s:4:"main";a:1:{s:2:"ID";s:4:"main";}s:9:"mobileapp";a:1:{s:2:"ID";s:9:"mobileapp";}s:23:"nbrains.loadajaxcontent";a:1:{s:2:"ID";s:23:"nbrains.loadajaxcontent";}s:4:"pull";a:1:{s:2:"ID";s:4:"pull";}s:4:"sale";a:1:{s:2:"ID";s:4:"sale";}s:5:"scale";a:1:{s:2:"ID";s:5:"scale";}s:6:"search";a:1:{s:2:"ID";s:6:"search";}s:6:"sender";a:1:{s:2:"ID";s:6:"sender";}s:14:"socialservices";a:1:{s:2:"ID";s:14:"socialservices";}s:11:"storeassist";a:1:{s:2:"ID";s:11:"storeassist";}s:9:"subscribe";a:1:{s:2:"ID";s:9:"subscribe";}s:4:"vote";a:1:{s:2:"ID";s:4:"vote";}}}';
+return true;
+?>
