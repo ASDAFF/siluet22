@@ -45,11 +45,23 @@ $('.button_gray').on('click', function(e) {
 		$.ajax({
 			success: function(data) {
 				$('.form_op').html('<h4 style="color:#F50057">Сообщение отправлено</h4>');
+				resetSelect();
 			}
     	});	
 		return;
 	});
 
+
+	// КОСТЫЛИЩЕ!!1!1!!!!1!!!!
+	function resetSelect() {
+		setTimeout(function() {
+			$("select").selectmenu();
+		}, 400);
+	}
+
+
+	
+	
 
     var loading = false;
     $(window).scroll(function() {
